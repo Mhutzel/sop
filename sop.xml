@@ -5,7 +5,7 @@
        <session>
            <url> summer.html </url>
            <sessiontitle>Summer sessions at Virginia Tech </sessiontitle>
-           <welcome>This is summer!</welcome>
+           <welcome>Summer sessions are the perfect opportunity for those who are double majoring, planning on graduating early, or simply want to lighten their course load for fall or spring.</welcome>
            <tasks>
                <task>
                    <tasktitle> How to register for summer classes</tasktitle>
@@ -28,50 +28,239 @@
                            <action> Click “HokieSpa” → “Registration and Schedule” → “Register for Classes” </action>
                        </step> 
                        <step> 
-                           <action> Select the available term you wish to register, either Winter or Summer. Once you have selected the term, click “Continue”</action>
+                           <action> Select the available summer term you wish to register for. Once you have selected the term, click “Continue”</action>
                        </step>
                        <step> 
                            <action> Read the financial notice and click “Ok” to continue</action>
                        </step>
-                       <step> Enter your search criteria by selecting your desired subject from the drop down menu or typing it directly into the search bar and click “Search”</step>
+                       <step> 
+                           <action> Enter your search criteria by selecting your desired subject from the drop down menu or typing it directly into the search bar and click “Search”</action> 
+                           <note> Pay attention to the “class type” label in the table to view whether the course is a virtual or tradition lecture </note>
+                       </step>
+                       <step>
+                           <action>
+                               Click “Add” to add a class. The course will then appear in your “Schedule” and “Summary”   
+                           </action>
+                           <note>
+                               Maximum summer enrollment hours are 9.    
+                           </note>
+                       </step>
+                       <step> 
+                           <action> Click "Submit" to complete registration</action>
+                       </step>
                    </steps>
-                   <summary> Now that you've completed this task you can take your class </summary>
+                   <summary> Added courses will be displayed in your schedule at the bottom of HokieSpa. The status of your courses in the summary will say “Registered.” </summary>
                </task>
                
+           <task>
+               <tasktitle> How to drop a course/withdraw/cancel registration</tasktitle>
+               <staging> The steps outlined below will teach you how to drop, cancel, or withdraw by the stated deadlines to avoid financial or academic consequences.  </staging>
+               <ingredients>
+                   <ingredient>
+                       <item>VT PID and password</item>
+                   </ingredient>
+                   <ingredient>
+                       <item>Completed Student Resignation Form, which can be found here: http://registrar.vt.edu/content/dam/registrar_vt_edu/documents/Updates/forms/Student-Withdrawal-Resignation-Form.pdf </item>
+                   </ingredient>
+               </ingredients>
+                <steps> 
+                    <step>
+                    <action>Login to HokieSpa using your VT PID and password</action>
+                    <note> You will be prompted to login with 2-Factor
+                        Authentication</note>
+                    </step>
+                    <step>
+                        <action>Click “HokieSpa” → “Registration and Schedule”</action>
+                    </step>
+                    <step>
+                        <action> Select the “Action” drop down menu under “Schedule” </action>
+                    </step>
+                    <step>
+                        <action>Select the “Drop Web” action from the drop down menu for the course you wish to drop then click “Submit” </action>
+                    </step>
+                </steps> 
+               <summary> Dropped courses will be displayed in your schedule at the bottom of HokieSpa. The status of your courses in the summary will say “Withdrawn” </summary>
+           </task>
                
+          <task>
+              <tasktitle>How to pay for summer courses</tasktitle>
+              <staging>An email will be sent to your VT email address from Virginia Tech’s electronic billing system notifying you or your authorized payer(s) when a bill is ready for viewing and requires action.</staging>
+              <ingredients>
+                  <ingredient>
+                      <item>VT PID and passoword</item>
+                  </ingredient>
+                  <ingredient>
+                      <item>Payment information (credit card or routing/account number) </item>
+                  </ingredient>
+                  <ingredient>
+                      <item>OPTIONAL: Establish Authorized Payer(s) here: http://www.bursar.vt.edu/billing_payment/authorized_payers.php</item>
+                  </ingredient>
+              </ingredients>
+                  <steps>
+                      <step>
+                          <action>Login to HokieSpa using your VT PID and password</action>
+                      </step>
+                      <step>
+                          <action>Click "University Account Information"</action>
+                      </step>
+                      <step>
+                          <action>Click “View and Pay e-Bill.” You will be redirected to the QuickPay™ site</action>
+                      </step>
+                      <step>
+                          <action>Click “View Accounts” to view current account information and the most recent billing statement</action>
+                      </step>
+                      <step>
+                          <action>Use the Account Actions drop down menu and select “Make Payment”</action>
+                      </step>
+                      <step>
+                          <action>Enter the amount you wish to pay and choose a payment method</action>
+                      <note>If paying with credit card processing fees may apply</note>
+                      </step>
+                      <step>
+                          <action>Click “Continue” </action>
+                      </step>
+                      <step>
+                          <action> Fill in your credit card or banking information and your contact information </action>
+                          <note>Set up a payment profile so your information (account, billing address, and contact information) is saved for future payments</note>
+                      </step>
+                      <step>
+                          <action>Click “Continue” and the payment confirmation screen will be displayed</action>
+                      </step>     
+                  </steps>
+              <summary>You should receive a payment acknowledgement email immediately following an online payment made by you or an authorized payer. </summary>
+              
+          </task>       
            </tasks>
        </session>
     
        <session>
            <url> winter.html </url>
            <sessiontitle>Winter sessions at Virginia Tech </sessiontitle>
-           <welcome>This is winter!</welcome>
+           <welcome>Winter sessions are the perfect opportunity for those who are double majoring, planning on graduating early, or simply want to lighten their course load for fall or spring.</welcome>
            <tasks>
                <task>
                    <tasktitle> How to register for winter classes</tasktitle>
-                   <staging> Follow this task... </staging>
+                   <staging> Follow the steps below to submit your course requests and generate your class schedule. See specific dates for requesting courses here: http://registrar.vt.edu/dates-deadlines-accordion/Drop-Add.html.</staging>
                    <ingredients> 
                        <ingredient>
-                           <item> </item>
+                           <item> VT PID and password</item>
                        </ingredient>
                        <ingredient>
-                           <item> </item>
+                           <item>Completed pre-registration requirements (e.g. pay your fees, update medical records, etc.) </item>
+                           <note>Green check marks indicate completed registration requirements. All must be green to proceed to the first step of registration  </note>
                        </ingredient>
                    </ingredients>
                    <steps>
                        <step>
-                           <action> Do this </action>
-                           <note>Additional information</note>
+                           <action> Login to HokieSpa uing your VT PID and password. </action>
+                           <note>You will be prompted to login with 2-Factor Authentication</note>
                        </step> 
                        <step>
-                           <action> Do this </action>
-                           <note>Additional information</note>
+                           <action> Click “HokieSpa” → “Registration and Schedule” → “Register for Classes” </action>
                        </step> 
+                       <step> 
+                           <action> Select the available winter term you wish to register for. Once you have selected the term, click “Continue”</action>
+                       </step>
+                       <step> 
+                           <action> Read the financial notice and click “Ok” to continue</action>
+                       </step>
+                       <step> 
+                           <action> Enter your search criteria by selecting your desired subject from the drop down menu or typing it directly into the search bar and click “Search”</action> 
+                           <note> Pay attention to the “class type” label in the table to view whether the course is a virtual or tradition lecture </note>
+                       </step>
+                       <step>
+                           <action>
+                               Click “Add” to add a class. The course will then appear in your “Schedule” and “Summary”   
+                           </action>
+                           <note>
+                               Maximum enrollment hours for winter are 6.
+                           </note>
+                       </step>
+                       <step> 
+                           <action> Click "Submit" to complete registration</action>
+                       </step>
                    </steps>
-                   <summary> Now that you've completed this task you can take your class </summary>
+                   <summary> Added courses will be displayed in your schedule at the bottom of HokieSpa. The status of your courses in the summary will say “Registered.” </summary>
                </task>
                
+               <task>
+                   <tasktitle> How to drop a course/withdraw/cancel registration</tasktitle>
+                   <staging> The steps outlined below will teach you how to drop, cancel, or withdraw by the stated deadlines to avoid financial or academic consequences.  </staging>
+                   <ingredients>
+                       <ingredient>
+                           <item>VT PID and password</item>
+                       </ingredient>
+                       <ingredient>
+                           <item>Completed Student Resignation Form, which can be found here: http://registrar.vt.edu/content/dam/registrar_vt_edu/documents/Updates/forms/Student-Withdrawal-Resignation-Form.pdf </item>
+                       </ingredient>
+                   </ingredients>
+                   <steps> 
+                       <step>
+                           <action>Login to HokieSpa using your VT PID and password</action>
+                           <note> You will be prompted to login with 2-Factor
+                               Authentication</note>
+                       </step>
+                       <step>
+                           <action>Click “HokieSpa” → “Registration and Schedule”</action>
+                       </step>
+                       <step>
+                           <action> Select the “Action” drop down menu under “Schedule” </action>
+                       </step>
+                       <step>
+                           <action>Select the “Drop Web” action from the drop down menu for the course you wish to drop then click “Submit” </action>
+                       </step>
+                   </steps> 
+                   <summary> Dropped courses will be displayed in your schedule at the bottom of HokieSpa. The status of your courses in the summary will say “Withdrawn” </summary>
+               </task>
                
+               <task>
+                   <tasktitle>How to pay for summer courses</tasktitle>
+                   <staging>An email will be sent to your VT email address from Virginia Tech’s electronic billing system notifying you or your authorized payer(s) when a bill is ready for viewing and requires action.</staging>
+                   <ingredients>
+                       <ingredient>
+                           <item>VT PID and passoword</item>
+                       </ingredient>
+                       <ingredient>
+                           <item>Payment information (credit card or routing/account number) </item>
+                       </ingredient>
+                       <ingredient>
+                           <item>OPTIONAL: Establish Authorized Payer(s) here: http://www.bursar.vt.edu/billing_payment/authorized_payers.php</item>
+                       </ingredient>
+                   </ingredients>
+                   <steps>
+                       <step>
+                           <action>Login to HokieSpa using your VT PID and password</action>
+                       </step>
+                       <step>
+                           <action>Click "University Account Information"</action>
+                       </step>
+                       <step>
+                           <action>Click “View and Pay e-Bill.” You will be redirected to the QuickPay™ site</action>
+                       </step>
+                       <step>
+                           <action>Click “View Accounts” to view current account information and the most recent billing statement</action>
+                       </step>
+                       <step>
+                           <action>Use the Account Actions drop down menu and select “Make Payment”</action>
+                       </step>
+                       <step>
+                           <action>Enter the amount you wish to pay and choose a payment method</action>
+                           <note>If paying with credit card processing fees may apply</note>
+                       </step>
+                       <step>
+                           <action>Click “Continue” </action>
+                       </step>
+                       <step>
+                           <action> Fill in your credit card or banking information and your contact information </action>
+                           <note>Set up a payment profile so your information (account, billing address, and contact information) is saved for future payments</note>
+                       </step>
+                       <step>
+                           <action>Click “Continue” and the payment confirmation screen will be displayed</action>
+                       </step>     
+                   </steps>
+                   <summary>You should receive a payment acknowledgement email immediately following an online payment made by you or an authorized payer. </summary>
+                   
+               </task>       
            </tasks>
        </session>
        
