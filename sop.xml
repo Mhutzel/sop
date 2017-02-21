@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sop>
+    <intro>This document will help you navigate through the Virginia Tech Winter and Summer session enrollment, whether you are a current VT student or Visiting/Non-degree seeking student.</intro> 
+   <sessions> 
+       <session>
+           <url> summer.html </url>
+           <sessiontitle>Summer sessions at Virginia Tech </sessiontitle>
+           <welcome>This is summer!</welcome>
+           <tasks>
+               <task>
+                   <tasktitle> How to register for summer classes</tasktitle>
+                   <staging> Follow this task... </staging>
+                   <ingredients> 
+                    <ingredient>
+                        <item> </item>
+                    </ingredient>
+                    <ingredient>
+                         <item> </item>
+                       </ingredient>
+                   </ingredients>
+                   <steps>
+                      <step>
+                          <action> Do this </action>
+                          <note>Additional information</note>
+                      </step> 
+                       <step>
+                           <action> Do this </action>
+                           <note>Additional information</note>
+                       </step> 
+                   </steps>
+                   <summary> Now that you've completed this task you can take your class </summary>
+               </task>
+               
+               
+           </tasks>
+       </session>
+    
+       <session>
+           <url> winter.html </url>
+           <sessiontitle>Winter sessions at Virginia Tech </sessiontitle>
+           <welcome>This is winter!</welcome>
+           <tasks>
+               <task>
+                   <tasktitle> How to register for winter classes</tasktitle>
+                   <staging> Follow this task... </staging>
+                   <ingredients> 
+                       <ingredient>
+                           <item> </item>
+                       </ingredient>
+                       <ingredient>
+                           <item> </item>
+                       </ingredient>
+                   </ingredients>
+                   <steps>
+                       <step>
+                           <action> Do this </action>
+                           <note>Additional information</note>
+                       </step> 
+                       <step>
+                           <action> Do this </action>
+                           <note>Additional information</note>
+                       </step> 
+                   </steps>
+                   <summary> Now that you've completed this task you can take your class </summary>
+               </task>
+               
+               
+           </tasks>
+       </session>
+       
+   </sessions>
+    
+</sop>
