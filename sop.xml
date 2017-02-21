@@ -9,24 +9,31 @@
            <tasks>
                <task>
                    <tasktitle> How to register for summer classes</tasktitle>
-                   <staging> Follow this task... </staging>
+                   <staging> Follow the steps below to submit your course requests and generate your class schedule. See specific dates for requesting courses here: http://registrar.vt.edu/dates-deadlines-accordion/Drop-Add.html.</staging>
                    <ingredients> 
                     <ingredient>
-                        <item> </item>
+                        <item> VT PID and password</item>
                     </ingredient>
                     <ingredient>
-                         <item> </item>
+                        <item>Completed pre-registration requirements (e.g. pay your fees, update medical records, etc.) </item>
+                        <note>Green check marks indicate completed registration requirements. All must be green to proceed to the first step of registration  </note>
                        </ingredient>
                    </ingredients>
                    <steps>
                       <step>
-                          <action> Do this </action>
-                          <note>Additional information</note>
+                          <action> Login to HokieSpa uing your VT PID and password. </action>
+                          <note>You will be prompted to login with 2-Factor Authentication</note>
                       </step> 
                        <step>
-                           <action> Do this </action>
-                           <note>Additional information</note>
+                           <action> Click “HokieSpa” → “Registration and Schedule” → “Register for Classes” </action>
                        </step> 
+                       <step> 
+                           <action> Select the available term you wish to register, either Winter or Summer. Once you have selected the term, click “Continue”</action>
+                       </step>
+                       <step> 
+                           <action> Read the financial notice and click “Ok” to continue</action>
+                       </step>
+                       <step> Enter your search criteria by selecting your desired subject from the drop down menu or typing it directly into the search bar and click “Search”</step>
                    </steps>
                    <summary> Now that you've completed this task you can take your class </summary>
                </task>
